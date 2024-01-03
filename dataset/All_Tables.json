@@ -1,0 +1,13 @@
+{
+	"name": "All_Tables",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "JOYBOY",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
